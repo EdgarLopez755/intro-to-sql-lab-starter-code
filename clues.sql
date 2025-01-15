@@ -2,7 +2,7 @@
  
 -- Write SQL query here
 
-SELECT countries
+SELECT name
 FROM countries
 WHERE region = 'Southern Europe'
 ORDER BY population ASC
